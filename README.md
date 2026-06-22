@@ -48,7 +48,9 @@
 ---
 ## 中文版
 
-# 10天造出的语言：Brendan Eich 的设计取舍与历史债务
+# 深入理解 JavaScript：ECMAScript 原理
+
+> 不教你怎么写 JS，教你 JS 为什么这样运行。从 Brendan Eich 的10天设计决策到 V8 引擎 JIT 反优化，覆盖 ECMAScript 规范全部核心机制：类型系统、原型链、执行上下文、闭包、事件循环、Promise 解析算法、ESM 模块链接……每章四层结构，同时服务1-3年、3-5年和资深 JavaScript 开发者。35章，中文最深度的 ECMAScript 原理完全指南。
 
 **📖 在线免费阅读全文:[https://tools.yiteai.com/books/ecmascript](https://tools.yiteai.com/books/ecmascript)**
 
